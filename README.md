@@ -9,3 +9,6 @@
 ## Activity Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmarm0&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarm0&layout=compact&theme=dark)
+
